@@ -1,0 +1,7 @@
+git-a distributed version control system
+
+Why use git
+-Undo mistakes
+-Distributed development
+-To not mix things up
+-
